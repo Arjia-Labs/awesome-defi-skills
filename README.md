@@ -237,6 +237,16 @@ One of the most mature MCP products in crypto:
 
 ---
 
+### Sharpe MCP Server
+
+- **Docs:** [sharpe.ai/docs/mcp-server](https://www.sharpe.ai/docs/mcp-server)
+- **Install:** `uvx sharpe-mcp`
+- **Chains:** Multi-chain crypto market data
+
+MCP server for crypto market intelligence across funding rates, futures, options, arbitrage, narratives, exchange listings, and news. Public endpoints work without a required API key.
+
+---
+
 ### CoinMarketCap MCP
 
 - Real-time prices, market cap, and volume data
