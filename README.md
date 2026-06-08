@@ -266,6 +266,14 @@ On-chain analytics, token metrics, and security insights for smart contracts.
 
 Fetch Ethereum blockchain data — token balances, ENS lookups, contract interactions via Etherscan API.
 
+### TWZRD Agent Intel
+
+On-chain trust scoring for AI agents on **Solana**. Verify wallet identity and reputation before x402 micropayments. Free MCP server with `score_agent()`, `preflight_check()`, and paid `get_trust_receipt()` tools.
+
+- **Live endpoint:** `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+- **Website:** [intel.twzrd.xyz](https://intel.twzrd.xyz)
+- **Use case:** Trust layer for Solana DeFi agents — verify counterparty wallets before transactions
+
 ---
 
 ## Skills Marketplaces & Directories
