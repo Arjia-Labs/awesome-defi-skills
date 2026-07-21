@@ -244,6 +244,19 @@ One of the most mature MCP products in crypto:
 
 ---
 
+
+### AgentServices (x402)
+
+- **MCP URL:** https://agentservices.to/mcp
+- **Registry:** to.agentservices/agentservices (official MCP Registry)
+- **Payment:** x402 — USDC on Base ($0.01-$0.03/call)
+- 54 services, 97 endpoints, 41 x402-paid, 37 MCP tools
+- Crypto prices, FX rates, on-chain analytics, market indicators, whale tracking
+- streamable-http transport, protocol 2026-07-28
+- Live and production-deployed
+
+---
+
 ## Multi-Chain & Wallet MCP Servers
 
 ### Web3 MCP (Strangelove Ventures)
