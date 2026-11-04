@@ -153,6 +153,7 @@ Explore DeFi yield opportunities across protocols:
 - Filter yield pools by chain (Ethereum, Solana, etc.) or project (Lido, Aave, etc.)
 - Analyze APY, 30-day mean APY, and yield predictions
 - Predictive classification (Stable/Up/Down) with confidence scores
+- [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
 
 ---
 
