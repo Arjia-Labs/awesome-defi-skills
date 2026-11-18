@@ -262,6 +262,14 @@ Supports **30+ EVM-compatible blockchains** (Ethereum, Polygon, BSC, Arbitrum). 
 
 On-chain analytics, token metrics, and security insights for smart contracts.
 
+### StalkChain Data MCP
+
+- **Repo:** [StalkChain/fomo-mcp-api](https://github.com/StalkChain/fomo-mcp-api)
+- **Install:** [Connect over Streamable HTTP with OAuth](https://stalkchain.com/docs/guides/getting-started).
+- **Chains:** Solana and Hyperliquid
+
+Query Solana wallet activity, token-holder concentration and tracked-trader flows, or look up Hyperliquid market data. Some queries use metered credits.
+
 ### Etherscan MCP
 
 Fetch Ethereum blockchain data — token balances, ENS lookups, contract interactions via Etherscan API.
